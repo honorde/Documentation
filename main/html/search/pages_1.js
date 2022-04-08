@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['package_20name_0',['Package Name',['../md_ros_package_template_README.html',1,'']]]
+  ['technical_20overview_0',['Technical Overview',['../technical.html',1,'']]]
 ];

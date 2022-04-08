@@ -28,8 +28,5 @@ var namespaces_dup =
     ] ],
     [ "test_flake8", "namespacetest__flake8.html", [
       [ "test_flake8", "namespacetest__flake8.html#a19bfcf597a661a366225b7d0cedd123c", null ]
-    ] ],
-    [ "test_pep257", "namespacetest__pep257.html", [
-      [ "test_pep257", "namespacetest__pep257.html#ac69de1fd6a28f245460be3110acc273f", null ]
     ] ]
 ];

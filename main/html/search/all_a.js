@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../README_8md.html',1,'(Global Namespace)'],['../ros__package__template_2README_8md.html',1,'(Global Namespace)']]],
+  ['readme_2emd_0',['README.md',['../README_8md.html',1,'']]],
   ['ros_5fpackage_5ftemp_5flaunch_1',['ros_package_temp_launch',['../namespaceros__package__temp__launch.html',1,'']]],
   ['ros_5fpackage_5ftemp_5flaunch_2epy_2',['ros_package_temp_launch.py',['../ros__package__temp__launch_8py.html',1,'']]],
   ['ros_5fpackage_5ftemplate_3',['ros_package_template',['../namespaceros__package__template.html',1,'']]],

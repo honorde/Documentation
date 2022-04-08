@@ -38,7 +38,6 @@ var NAVTREE =
       [ "Releases", "technical.html#rel2_page4", null ]
     ] ],
     [ "devtemplate", "md_README.html", null ],
-    [ "Package Name", "md_ros_package_template_README.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
