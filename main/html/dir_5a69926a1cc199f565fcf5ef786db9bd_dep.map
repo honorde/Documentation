@@ -1,0 +1,10 @@
+<map id="ros_package_template" name="ros_package_template">
+<area shape="rect" id="node2" href="dir_aa5ac16c81efbc6df3786a1024d95ac5.html" title="include" alt="" coords="85,159,157,207"/>
+<area shape="rect" id="node3" href="dir_55c4b8aecd0a8d87b7e13e84541c8b6a.html" title="launch" alt="" coords="229,63,301,111"/>
+<area shape="rect" id="node4" href="dir_f75501ff109f9f4789d87b878d536efd.html" title="src" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000009_000001.html" title="3" alt="" coords="145,139,153,154"/>
+<area shape="rect" id="node5" href="dir_38d29d31e5de4ede75e35d6f751f1176.html" title="test" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000011_000001.html" title="1" alt="" coords="105,131,113,146"/>
+<area shape="rect" id="clust2" href="dir_5a69926a1cc199f565fcf5ef786db9bd.html" alt="" coords="27,52,491,217"/>
+<area shape="rect" id="clust1" href="dir_a927151f976c75528a6ed2f12b7bc94e.html" title="ros_best_practices&#45;foxy" alt="" coords="16,16,501,228"/>
+</map>

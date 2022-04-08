@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['tests_5frequire_0',['tests_require',['../namespacesetup.html#a6369bb060267ccf90b93519796e7cc2c',1,'setup']]]
+  ['zip_5fsafe_0',['zip_safe',['../namespacesetup.html#a13510753661cb74083a0c664db11dde9',1,'setup']]]
 ];

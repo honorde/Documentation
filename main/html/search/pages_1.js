@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['technical_20overview_0',['Technical Overview',['../technical.html',1,'']]]
+  ['package_20name_0',['Package Name',['../md_ros_best_practices_foxy_ros_package_template_README.html',1,'']]]
 ];

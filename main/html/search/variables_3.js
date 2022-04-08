@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['foo_0',['foo',['../structdatum.html#a5b9ad0f6bf45f60421c5369b03ecfb49',1,'datum']]]
+  ['install_5frequires_0',['install_requires',['../namespacesetup.html#abead4f26b530856f858f0d44c7cf2588',1,'setup']]]
 ];

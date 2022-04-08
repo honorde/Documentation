@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['license_0',['license',['../namespacesetup.html#a8ed6f50a28bd6a8794f8e1153baa6de9',1,'setup']]]
+  ['name_0',['name',['../namespacesetup.html#ab3a7a0638d76a01367c5bc3cc699447f',1,'setup']]]
 ];

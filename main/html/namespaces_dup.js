@@ -1,6 +1,13 @@
 var namespaces_dup =
 [
     [ "python_temp", "namespacepython__temp.html", "namespacepython__temp" ],
+    [ "ros_package_temp_launch", "namespaceros__package__temp__launch.html", [
+      [ "generate_launch_description", "namespaceros__package__temp__launch.html#acdc20fd6f9da723eb46a4916a644b814", null ]
+    ] ],
+    [ "ros_package_template", "namespaceros__package__template.html", "namespaceros__package__template" ],
+    [ "ros_package_template_launch", "namespaceros__package__template__launch.html", [
+      [ "generate_launch_description", "namespaceros__package__template__launch.html#a8cd5e8ab9a8cffa8ece07683669c36cb", null ]
+    ] ],
     [ "setup", "namespacesetup.html", [
       [ "data_files", "namespacesetup.html#ad027a8e9452da003dca32bf7467bd16e", null ],
       [ "description", "namespacesetup.html#aedf461ec52a946bda975938ba0b93ec0", null ],
