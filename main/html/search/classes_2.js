@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['rospackagetemplate_0',['RosPackageTemplate',['../classros__package__template_1_1RosPackageTemplate.html',1,'ros_package_template']]]
+  ['minimalpublisher_0',['MinimalPublisher',['../classpython__temp_1_1python__temp__node_1_1MinimalPublisher.html',1,'python_temp::python_temp_node']]]
 ];

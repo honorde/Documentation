@@ -1,13 +1,10 @@
 var searchData=
 [
-  ['readme_2emd_0',['README.md',['../README_8md.html',1,'']]],
-  ['ros_5fpackage_5ftemp_5flaunch_1',['ros_package_temp_launch',['../namespaceros__package__temp__launch.html',1,'']]],
-  ['ros_5fpackage_5ftemp_5flaunch_2epy_2',['ros_package_temp_launch.py',['../ros__package__temp__launch_8py.html',1,'']]],
-  ['ros_5fpackage_5ftemplate_3',['ros_package_template',['../namespaceros__package__template.html',1,'']]],
-  ['ros_5fpackage_5ftemplate_5flaunch_4',['ros_package_template_launch',['../namespaceros__package__template__launch.html',1,'']]],
-  ['ros_5fpackage_5ftemplate_5flaunch_2epy_5',['ros_package_template_launch.py',['../ros__package__template__launch_8py.html',1,'']]],
-  ['ros_5fpackage_5ftemplate_5fnode_2ecpp_6',['ros_package_template_node.cpp',['../ros__package__template__node_8cpp.html',1,'']]],
-  ['rospackagetemplate_7',['RosPackageTemplate',['../classros__package__template_1_1RosPackageTemplate.html',1,'ros_package_template::RosPackageTemplate'],['../classros__package__template_1_1RosPackageTemplate.html#a687fd5b68140184c315df137ab2c99be',1,'ros_package_template::RosPackageTemplate::RosPackageTemplate()']]],
-  ['rospackagetemplate_2ecpp_8',['RosPackageTemplate.cpp',['../RosPackageTemplate_8cpp.html',1,'']]],
-  ['rospackagetemplate_2ehpp_9',['RosPackageTemplate.hpp',['../RosPackageTemplate_8hpp.html',1,'']]]
+  ['algorithm_0',['algorithm',['../namespacepython__temp_1_1algorithm.html',1,'python_temp']]],
+  ['package_5fname_1',['package_name',['../namespacesetup.html#a3c783d982ab5a3d08b5fcf646a62976d',1,'setup']]],
+  ['packages_2',['packages',['../namespacesetup.html#aff2375a361fd5865c77bd9aa093be747',1,'setup']]],
+  ['publisher_5f_3',['publisher_',['../classpython__temp_1_1python__temp__node_1_1MinimalPublisher.html#a160d5d08664c6de9944fc719009471cc',1,'python_temp::python_temp_node::MinimalPublisher']]],
+  ['python_5ftemp_4',['python_temp',['../namespacepython__temp.html',1,'']]],
+  ['python_5ftemp_5fnode_5',['python_temp_node',['../namespacepython__temp_1_1python__temp__node.html',1,'python_temp']]],
+  ['python_5ftemp_5fnode_2epy_6',['python_temp_node.py',['../python__temp__node_8py.html',1,'']]]
 ];

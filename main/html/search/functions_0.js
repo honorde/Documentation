@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['adddata_0',['addData',['../classros__package__template_1_1Algorithm.html#a7a2f43ef2f7049fd265b9902bc974309',1,'ros_package_template::Algorithm::addData(const double data)'],['../classros__package__template_1_1Algorithm.html#a5a4c1600c2783fb7e55283c329de9bce',1,'ros_package_template::Algorithm::addData(const Eigen::VectorXd &amp;data)']]],
-  ['algorithm_1',['Algorithm',['../classros__package__template_1_1Algorithm.html#a8fca23157b8b5ca5338f7ad269445c79',1,'ros_package_template::Algorithm']]]
+  ['_5f_5finit_5f_5f_0',['__init__',['../classpython__temp_1_1python__temp__node_1_1MinimalPublisher.html#ae7c1cce63f185f8d57a84fbfaf0dc7f6',1,'python_temp::python_temp_node::MinimalPublisher']]]
 ];

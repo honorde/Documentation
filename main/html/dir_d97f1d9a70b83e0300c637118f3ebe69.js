@@ -1,5 +1,6 @@
 var dir_d97f1d9a70b83e0300c637118f3ebe69 =
 [
     [ "test_copyright.py", "test__copyright_8py.html", "test__copyright_8py" ],
-    [ "test_flake8.py", "test__flake8_8py.html", "test__flake8_8py" ]
+    [ "test_flake8.py", "test__flake8_8py.html", "test__flake8_8py" ],
+    [ "test_python_temp_node.py", "test__python__temp__node_8py.html", "test__python__temp__node_8py" ]
 ];

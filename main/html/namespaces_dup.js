@@ -28,5 +28,8 @@ var namespaces_dup =
     ] ],
     [ "test_flake8", "namespacetest__flake8.html", [
       [ "test_flake8", "namespacetest__flake8.html#a19bfcf597a661a366225b7d0cedd123c", null ]
+    ] ],
+    [ "test_python_temp_node", "namespacetest__python__temp__node.html", [
+      [ "test_calculate", "namespacetest__python__temp__node.html#ad043dd3e7c0d7165a3b4121c024061b8", null ]
     ] ]
 ];
